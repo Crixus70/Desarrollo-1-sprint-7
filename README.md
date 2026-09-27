@@ -2,6 +2,11 @@
 
 Aplicación web didáctica para explorar los movimientos de aguacate Hass de una startup con centro de distribución en Puebla. El escenario representa recepciones desde Veracruz y despachos a Ciudad de México, Guadalajara y Monterrey.
 
+## Enlaces del proyecto
+
+- **Aplicación desplegada en Render:** [https://avocado-hass-dashboard.onrender.com/](https://avocado-hass-dashboard.onrender.com/)
+- **Repositorio público en GitHub:** [https://github.com/Crixus70/Desarrollo-1-sprint-7](https://github.com/Crixus70/Desarrollo-1-sprint-7)
+
 ## Propósito
 
 Reunir entradas, salidas, mermas y existencias en un panel que facilite revisar el flujo de inventario y comparar despachos por periodo y destino. Es un ejercicio de logística y cadena de suministro, no un sistema operativo de inventarios ni una evaluación de inocuidad.
@@ -18,7 +23,7 @@ Reunir entradas, salidas, mermas y existencias en un panel que facilite revisar 
 
 ## Datos
 
-El archivo `aguacate_hass_agosto_septiembre_ejercicio.csv` contiene un escenario didáctico de 245 movimientos entre agosto y septiembre de 2026. Las temperaturas son ilustrativas, no registros verificados de AccuWeather ni mediciones del producto. No utilizar estos datos para tomar decisiones sobre una operación real.
+El proyecto utiliza el conjunto propio `aguacate_hass_agosto_septiembre_ejercicio.csv` en lugar del archivo opcional `vehicles_us.csv`. Contiene un escenario didáctico de 245 movimientos entre agosto y septiembre de 2026. Las temperaturas son ilustrativas, no registros verificados de AccuWeather ni mediciones del producto. No utilizar estos datos para tomar decisiones sobre una operación real.
 
 ## Instalación y ejecución
 
